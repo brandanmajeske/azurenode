@@ -15,12 +15,17 @@ a {
   a:hover {
     color: #561493; }
 
-.gulpicon {
-  margin: 1em auto; }
+.company_logo {
+  margin: 2em auto;
+  display: block; }
 
-.button {
+.top-bar {
+  background-color: #262626; }
+
+.button, .top-bar-section li.active:not(.has-form) a:not(.button) {
+  transition: background-color 0.3s ease;
   background-color: #8a2be2; }
-  .button:hover {
+  .button:hover, .top-bar-section li.active:not(.has-form) a:not(.button):hover {
     background-color: #561493; }
 
 hr {

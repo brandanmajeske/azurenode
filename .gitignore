@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 
+node_modules/
+.sass-cache/
+
 # Build results
 
 [Dd]ebug/

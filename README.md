@@ -1,4 +1,4 @@
-azurenode
-=========
+vsnodegulpzurb
+==============
 
-azure - nodejs - gulpjs - visual studio
+Visual Studio + Node Tools + Gulp.js + Zurb Foundation 5
